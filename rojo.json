@@ -1,0 +1,10 @@
+{
+  "name": "sorting",
+  "servePort": 8000,
+  "partitions": {
+    "src": {
+      "path": "src",
+      "target": "StarterGui.MainGui.Source"
+    }
+  }
+}
